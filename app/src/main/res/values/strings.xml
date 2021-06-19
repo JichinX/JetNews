@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JetNews</string>
+    <string name="load_error">Can\'t update latest news</string>
+    <string name="retry">Retry</string>
+    <string name="cd_open_navigation_drawer">"                            contentDescription = stringResource(id = R.string.cd_op "</string>
+    <string name="unbookmark">unbookmark</string>
+    <string name="bookmark">bookmark</string>
+    <string name="cd_more_actions">more actions</string>
+    <string name="fewer_stories">Show fewer stories like this?</string>
+    <string name="fewer_stories_content">This feature is not yet implemented</string>
+    <string name="agree">AGREE</string>
+</resources>
